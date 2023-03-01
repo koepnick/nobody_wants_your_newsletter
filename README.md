@@ -1,6 +1,6 @@
 # Nobody wants your newsletters!
 
-**We are not mindless wallets here solely to increase shareholder value. We are tired of having every aspect of our lives scrutinized and monetized. **
+**We are not mindless wallets here solely to increase shareholder value. We are tired of having every aspect of our lives scrutinized and monetized.**
 
 
 Seriously, bloggers. Nobody wants your newsletters. 
