@@ -5,4 +5,4 @@
 www.laptopmag.com##.exit-intent__background.exit-intent
 
 ! Eat a dick, Google. Actually... eat all of the dicks. Ever.
-##iframe[src*="accounts.google.com/*gsi*"] no-remote
+accounts.google.com/gsi/*
