@@ -1,2 +1,2 @@
-# nobody_wants_your_newsletter
+# Nobody wants your newsletters!
 Seriously, bloggers. Nobody wants your newsletters. 
