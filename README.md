@@ -9,4 +9,15 @@ My goal is to make this as future-proof as possible so that we're not adding ent
 
 PRs to the community filters list are welcome, but anything dedicated to a specific site will be rejected. 
 
-Add "https://raw.githubusercontent.com/koepnick/nobody_wants_your_newsletter/main/ublock_filters.txt" to your filters list
+This is something that I'll be updating as my righteous indignation increases. Basically I'll be adding features as I get annoyed by the browsing experience. 
+
+# Usage
+
+Add one (or both) of the following to your custom filter lists in uBlock Origin.
+
+
+https://raw.githubusercontent.com/koepnick/nobody_wants_your_newsletter/main/ublock_filters.txt
+> The list that I maintain
+
+https://raw.githubusercontent.com/koepnick/nobody_wants_your_newsletter/main/community_filters.txt
+> The list requested by the community
