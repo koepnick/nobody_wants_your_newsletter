@@ -3,3 +3,6 @@
 # Homepage: https://github.com/koepnick/nobody_wants_your_newsletter
 
 www.laptopmag.com##.exit-intent__background.exit-intent
+
+! Eat a dick, Google. Actually... eat all of the dicks. Ever.
+##iframe[src*="accounts.google.com/gsi/iframe/*"] no-remote
