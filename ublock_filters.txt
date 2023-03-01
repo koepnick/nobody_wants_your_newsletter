@@ -1,0 +1,5 @@
+! Title: Nobody wants your newsletter
+# License: https://creativecommons.org/licenses/by-sa/4.0/
+# Homepage: https://github.com/koepnick/nobody_wants_your_newsletter
+
+www.laptopmag.com##.exit-intent__background.exit-intent
