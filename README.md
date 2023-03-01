@@ -1,4 +1,8 @@
 # Nobody wants your newsletters!
+
+**We are not mindless wallets here solely to increase shareholder value. We are tired of having every aspect of our lives scrutinized and monetized. **
+
+
 Seriously, bloggers. Nobody wants your newsletters. 
 
 I plan on being very aggressive on this. 
@@ -11,7 +15,7 @@ PRs to the community filters list are welcome, but anything dedicated to a speci
 
 This is something that I'll be updating as my righteous indignation increases. Basically I'll be adding features as I get annoyed by the browsing experience. 
 
-Though not *technically* a newsletter popup, I despise the recent login nags from Google. The nags which, in order to disable, requires you to be **logged in**! So I'm nuking that as well. 
+Though not *technically* a newsletter popup, I despise the recent login nags from Google. The nags which, in order to disable, require you to be **logged in**! So I'm nuking that as well. 
 
 # Usage
 
