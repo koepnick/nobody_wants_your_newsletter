@@ -5,6 +5,7 @@
 ! General
 ##.modal-container
 ##.login-modal-dev
+##.couponbox
 
 ! Eat a dick, Google. Actually... eat all of the dicks. Ever.
 accounts.google.com/gsi/*
