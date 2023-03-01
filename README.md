@@ -11,6 +11,8 @@ PRs to the community filters list are welcome, but anything dedicated to a speci
 
 This is something that I'll be updating as my righteous indignation increases. Basically I'll be adding features as I get annoyed by the browsing experience. 
 
+Though not *technically* a newsletter popup, I despise the recent login nags from Google. The nags which, in order to disable, requires you to be **logged in**! So I'm nuking that as well. 
+
 # Usage
 
 Add one (or both) of the following to your custom filter lists in uBlock Origin.
