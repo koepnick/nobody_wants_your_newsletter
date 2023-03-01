@@ -1,0 +1,16 @@
+! Title: Nobody wants to chat with your bot
+
+*.intercomcdn.com
+*.tawk.to
+*.livechatinc.com
+*.olark.com
+*.onesignal.com
+*.freshdesk.com
+*.zopim.com
+*.freshchat.com
+*.novocall.co
+*.tidio.co
+*.driftt.com
+*.zohostatic.com
+*.hubspot.com
+*.purechat.com
